@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Read and create PayLoop invoices from Node.js",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "scripts": {
     "read": "node payloop.mjs read",

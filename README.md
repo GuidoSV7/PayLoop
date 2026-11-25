@@ -25,7 +25,7 @@ That create → fund → release loop is PayLoop. Everything else is UX around i
 ## Quick start
 
 ### Prerequisites
-- Node.js 20+
+- Node.js 22 (see `.nvmrc`)
 - Rust & `stellar` CLI (`cargo install --locked stellar-cli`)
 - [Freighter Wallet](https://www.freighter.app/) extension
 
